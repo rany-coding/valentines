@@ -10,7 +10,7 @@ const CONFIG = {
     scaleIncrement: 0.1, // Quanto cresce por clique
     maxScale: 2.5,       // Limite de tamanho
     debounceTime: 300,   // Tempo em ms para evitar cliques acidentais
-    romanticMessage: "Cada clique é um motivo a mais para te amar. Obrigado por ser meu sorriso diário — eu te amo hoje e sempre. ❤️"
+    romanticMessage: "Cada clique é um motivo a mais para te amar. Obrigado por ser meu sorriso diário — eu te amo hoje e sempre Jhenifer. ❤️"
 };
 
 // --- Elementos do DOM ---
@@ -89,7 +89,7 @@ function resetProgress() {
     
     // Atualizar UI
     updateButtonVisuals();
-    setTimeout(() => alert('Resetado! Agora você pode começar de novo.'), 100);
+    setTimeout(() => alert('te amo meu amor❤️.'), 100);
 }
 
 // --- Event Listeners ---
